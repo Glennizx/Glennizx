@@ -1,4 +1,4 @@
-<h1>Hi, I'm Glen <br/><a href="https://github.com/YOUR-USERNAME">Aspiring Data Analyst</a>, <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Chemical Engineer Transitioning into Tech</a>, <a href="https://www.youtube.com/@YOUR-CHANNEL">Content Creator</a></h1>
+<h1>Hi, I'm Glennis <br/><a href="https://github.com/glennizx">Aspiring Data Analyst</a>, <a href="https://www.linkedin.com/in/glennezekielmiral/">Chemical Engineer Transitioning into Tech</a>, <a href="https://www.youtube.com/@glennisu">Content Creator</a></h1>
 
 <p>
 Registered Chemical Engineer transitioning into Data Analytics, with hands-on experience in laboratory analysis, quality testing, reporting, and problem-solving. 
