@@ -41,7 +41,7 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
 <h2>🎯 Career Goal</h2>
 
 <p>
-My goal is to start my career in <b>Data Analytics</b>, continue growing into <b>Data Engineering</b> or <b>Data Science</b>, and eventually work toward becoming a <b>Machine Learning Engineer</b>.
+I’m currently building a career in Data Analytics, with interests in data-driven problem solving, reporting, visualization, automation, and strengthening my technical skills in SQL and Python.
 </p>
 
 <h2>📺 YouTube / Content</h2>
