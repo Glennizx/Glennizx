@@ -16,7 +16,7 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
 - <b>SQL</b>
   - [SQL Data Exploration Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
   - [Chicago Socioeconomic Data Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Data Query Practice Portfolio](https://github.com/YOUR-USERNAME/YOUR-REPO)
+  - [Data Query Practice Portfolio](https://github.com/Data-Query-Practice-Portfolio)
 
 - <b>Python</b>
   - [Python Data Analysis with Pandas](https://github.com/YOUR-USERNAME/YOUR-REPO)
