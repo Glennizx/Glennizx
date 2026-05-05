@@ -49,7 +49,7 @@ I’m currently building a career in Data Analytics, with interests in data-driv
 
 - [My YouTube Channel](https://www.youtube.com/@YOUR-CHANNEL)
 - [Tech / Learning Journey Videos](https://www.youtube.com/@YOUR-CHANNEL)
-- [Portfolio and Career Shift Updates](https://www.youtube.com/@YOUR-CHANNEL)
+- [Portfolio and Career Shift Updates](https://www.youtube.com/@g.zeke./featured)
 
 <h2> 🤳 Connect with me:</h2>
 
