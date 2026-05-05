@@ -11,7 +11,7 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
   - [Sales Dashboard and KPI Tracker](https://github.com/YOUR-USERNAME/YOUR-REPO)
   - [Data Cleaning and Reporting Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
   - [Feasibility Study and Cost Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Habit Tracker ]([https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/Glennizx/Habit-Tracker-))
+  - [Habit Tracker ](https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/Glennizx/Habit-Tracker-)
 
 - <b>SQL</b>
   - [SQL Data Exploration Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
