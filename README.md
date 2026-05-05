@@ -47,9 +47,7 @@ I’m currently building a career in Data Analytics, with interests in data-driv
 
 <h2>📺 YouTube / Content</h2>
 
-- [My YouTube Channel](https://www.youtube.com/@YOUR-CHANNEL)
-- [Tech / Learning Journey Videos](https://www.youtube.com/@YOUR-CHANNEL)
-- [Portfolio and Career Shift Updates](https://www.youtube.com/@g.zeke./featured)
+- [My Youtube Channel](https://www.youtube.com/@g.zeke./featured)
 
 <h2> 🤳 Connect with me:</h2>
 
