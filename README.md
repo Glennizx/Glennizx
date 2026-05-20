@@ -24,7 +24,7 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
   - [Beginner Machine Learning Classification Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
 
 - <b>Power BI / Tableau</b>
-  - [Netflix Dashboard Project](https://github.com/Glenniszx/Netflix-Dashboard-)
+  - [Netflix Dashboard Project](https://github.com/Glennizx/Netflix-Dashboard-)
   - [Business Insights Visualization Project](https://github.com/Glenniszx/Netflix-Dashboard-)
 
 - <b>Engineering / Research Analytics</b>
