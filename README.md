@@ -25,8 +25,8 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
 
 - <b>Power BI / Tableau</b>
   - [Netflix Dashboard Project](https://github.com/Glennizx/Netflix-Dashboard-)
-  - [Business Insights Visualization Project](https://github.com/Glenniszx/Netflix-Dashboard-)
-
+  - [Coffee Shop Product Dashboard](https://github.com/Glennizx/Coffee-Shop-Product-Analysis)
+    
 - <b>Engineering / Research Analytics</b>
   - [Research Data Analysis and Visualization](https://github.com/YOUR-USERNAME/YOUR-REPO)
   - [Process and Quality Data Interpretation](https://github.com/YOUR-USERNAME/YOUR-REPO)
