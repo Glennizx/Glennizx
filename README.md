@@ -9,27 +9,20 @@ Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau,
 
 - <b>Excel</b>
   - [Habit Tracker](https://github.com/GlenniZx/Habit-Tracker-)
-  - [Data Cleaning and Reporting Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Feasibility Study and Cost Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
+  
     
 
 - <b>SQL</b>
-  - [SQL Data Exploration Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Chicago Socioeconomic Data Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
   - [Data Query Practice Portfolio](https://github.com/Glennizx/Data-Query-Practice-Portfolio)
 
 - <b>Python</b>
   - [Python Data Analysis with Pandas](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Data Cleaning and Visualization in Python](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Beginner Machine Learning Classification Project](https://github.com/YOUR-USERNAME/YOUR-REPO)
+
 
 - <b>Power BI / Tableau</b>
   - [Netflix Dashboard Project](https://github.com/Glennizx/Netflix-Dashboard-)
   - [Coffee Shop Product Dashboard](https://github.com/Glennizx/Coffee-Shop-Product-Analysis)
-    
-- <b>Engineering / Research Analytics</b>
-  - [Research Data Analysis and Visualization](https://github.com/YOUR-USERNAME/YOUR-REPO)
-  - [Process and Quality Data Interpretation](https://github.com/YOUR-USERNAME/YOUR-REPO)
+
 
 <h2>📚 What I'm Currently Learning</h2>
 
@@ -47,15 +40,7 @@ I’m currently building a career in Data Analytics, with interests in data-driv
 
 <h2>📺 YouTube / Content</h2>
 
-- [My Youtube Channel](https://www.youtube.com/@g.zeke./featured)
+- [My Youtube Channel](https://www.youtube.com/@glennisu/featured)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Glen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Glen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Glen | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[youtube]: https://www.youtube.com/@YOUR-CHANNEL
-[linkedin]: https://www.linkedin.com/in/YOUR-LINKEDIN/
-[github]: https://github.com/YOUR-USERNAME
 
