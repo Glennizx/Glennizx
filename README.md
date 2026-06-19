@@ -1,7 +1,7 @@
 <h1>Hi, I'm Glennis! <br/><a href="https://github.com/glennizx"> <a href="https://www.linkedin.com/in/glennezekielmiral/">Chemical Engineer transitioning into the world of automation and analytics</a></h1>
 
 <p>
-Registered Chemical Engineer transitioning into Data Analytics, with hands-on experience in laboratory analysis, quality testing, reporting, and problem-solving. 
+Registered Chemical Engineer transitioning into Analytics, with hands-on experience in laboratory analysis, quality testing, reporting, and problem-solving. 
 Currently building skills and projects in Excel, SQL, Python, Power BI, Tableau, and Machine Learning.
 </p>
 
